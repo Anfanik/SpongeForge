@@ -1,4 +1,4 @@
-Sponge Forge [![Build Status](https://travis-ci.org/SpongePowered/SpongeForge.svg?branch=master)](https://travis-ci.org/SpongePowered/SpongeForge)
+Sponge  Forge  [![Build Status](https://travis-ci.org/SpongePowered/SpongeForge.svg?branch=master)](https://travis-ci.org/SpongePowered/SpongeForge)
 =============
 
 **Currently not stable and under heavy development!**
